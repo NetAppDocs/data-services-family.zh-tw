@@ -1,0 +1,38 @@
+---
+settings:
+  name: NetApp Data Services
+  platform: cloud
+  internal:
+    pdf_enabled: false
+    lipi_enabled: true
+  prod:
+    pdf_enabled: false
+    harmony_enabled: false
+    lipi_enabled: false
+  langs: zh-tw,us-en,de-de,es-es,fr-fr,it-it,pt-br,ja-jp,ko-kr,zh-cn
+sidebar:
+  entries:
+  - title: NetApp控制台
+    url: "../console-setup-admin/index.html"
+  - title: 儲存管理
+    url: "../storage-management-family/index.html"
+  - title: 發行說明
+    url: "../console-relnotes/index.html"
+  - title: 備份和復原
+    url: "../data-services-backup-recovery/index.html"
+  - title: 雲端分層
+    url: "../data-services-cloud-tiering/index.html"
+  - title: 複製和同步
+    url: "../data-services-copy-sync/index.html"
+  - title: 資料分類
+    url: "../data-services-classification/index.html"
+  - title: 災難復原
+    url: "../data-services-disaster-recovery/index.html"
+  - title: 勒索軟體抵禦能力
+    url: "../data-services-ransomware-resilience/index.html"
+  - title: 複製
+    url: "../data-services-replication/index.html"
+  - title: 卷緩存
+    url: "../data-services-volume-caching/index.html"
+  - title: 工作負載
+    url: "../workload-family"

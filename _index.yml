@@ -1,0 +1,80 @@
+---
+product-family:
+  title: NetApp資料服務
+  lead: 透過NetApp控制台存取NetApp資料服務，以保護您的資料基礎架構。
+  summary: 透過NetApp控制台存取NetApp資料服務，以保護您的資料基礎架構。
+  sidebarlinks:
+  - title: 全部
+    tags: all
+    class: active
+  - title: 行動性
+    tags: mobility
+  - title: 保護
+    tags: protection
+  - title: 治理
+    tags: governance
+  - title: 儲存管理
+    tags: storage-management
+  - title: 工作負載
+    tags: migrations
+  tiles:
+  - title: 發行說明
+    icon: "./media/icon-docs.png"
+    url: "../console-relnotes/index.html"
+    summary: 了解NetApp控制台和NetApp資料服務的新功能。
+    tags: all
+  - title: NetApp控制台
+    icon: "./media/icon-admin.png"
+    url: "../console-setup-admin/index.html"
+    summary: 使用NetApp控制台來管理身分和存取管理、部署代理程式等。
+    tags: all,connectors,iam
+  - title: 儲存管理
+    icon: "./media/icon-admin.png"
+    url: "../storage-management-family/index.html"
+    summary: 透過NetApp Console 管理您的儲存系統。
+    tags: storage-management
+  - title: 備份和復原
+    icon: "./media/icon-backup.png"
+    url: "../data-services-backup-recovery/index.html"
+    summary: 保護和復原本地端和雲端的ONTAP資料、Kubernetes 磁碟區等。
+    tags: all,aws,azure,gcp,protection
+  - title: 複製和同步
+    icon: "./media/icon-sync.png"
+    url: "../data-services-copy-sync/index.html"
+    summary: 透過智慧、統一的解決方案簡化跨各種儲存類型的大數據傳輸。
+    tags: all,aws,azure,gcp,mobility
+  - title: 雲端分層
+    icon: "./media/icon-tiering.png"
+    url: "../data-services-tiering/index.html"
+    summary: 透過自動將冷資料移至低成本的物件儲存來實現持續可用的容量。
+    tags: all,aws,azure,gcp,mobility
+  - title: 資料分類
+    icon: "./media/icon-data-sense.png"
+    url: "../data-services-classification/index.html"
+    summary: 掃描和分類資料以實現增強的治理、效率和隱私。
+    tags: all,governance,aws,azure,gcp
+  - title: 災難復原
+    icon: "./media/icon-disaster-recovery.png"
+    url: "../data-services-disaster-recovery/index.html"
+    tags: all,protection
+    summary: 為您的 VMware 工作負載執行完整的災難防護解決方案。
+  - title: 勒索軟體抵禦能力
+    icon: "./media/icon-ransomware.png"
+    url: "../data-services-ransomware-protection/index.html"
+    summary: 在儲存層實施強大的勒索軟體防禦，以保護資料並自動化工作流程。
+    tags: all,protection
+  - title: 複製
+    icon: "./media/icon-replication.png"
+    url: "../data-services-replication/index.html"
+    summary: 複製資料以進行備份、災難復原以及本地和雲端ONTAP系統之間的遷移。
+    tags: all,mobility
+  - title: 卷緩存
+    icon: "./media/icon-volume-caching.png"
+    url: "../data-services-volume-caching/index.html"
+    summary: 建立可寫入的快取磁碟區以加快資料存取速度或卸載存取量大的磁碟區的流量。
+    tags: all,mobility
+  - title: 工作負載
+    icon: "./media/icon-workloads.png"
+    url: "../workload-family"
+    summary: 自動化 FSx for ONTAP的配置、治理和生命週期。探索節約成本和先進管理。
+    tags: all,workloads
