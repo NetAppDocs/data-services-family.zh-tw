@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
   <block id="dc245a85dae84d483e92d2f226c67bac" category="sidebar">透過NetApp控制台存取NetApp資料服務，以保護您的資料基礎架構。</block>
-  <block id="6d8ade1ea0a12d4d38bba059fd313d03" category="sidebar">透過NetApp控制台存取NetApp資料服務，以保護您的資料基礎架構。</block>
   <block id="2561e39e43a752f0567c60e0365aaeca" category="sidebar">NetApp資料服務</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">全部</block>
   <block id="340a76e3aef8e862f5fd79411261b297" category="sidebar">行動性</block>
@@ -32,4 +31,5 @@
   <block id="9abc8859c5a216b452e05e6972db99af" category="sidebar">建立可寫入的快取磁碟區以加快資料存取速度或卸載存取量大的磁碟區的流量。</block>
   <block id="c1b0831c02312777a947c0ce92d1c783" category="sidebar">自動化 FSx for ONTAP的配置、治理和生命週期。探索節約成本和先進管理。</block>
   <block id="e216b7a924341f796bca310d1d812baf" category="sidebar">複製和同步</block>
+  <block id="d53dec209f16f19a3b77bfb2774f6792" category="sidebar">透過NetApp控制台存取NetApp資料服務，以保護您的資料基礎架構。</block>
 </blocks>
