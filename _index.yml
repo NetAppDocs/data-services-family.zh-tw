@@ -13,6 +13,8 @@ product-family:
     tags: protection
   - title: 治理
     tags: governance
+  - title: NetApp控制台
+    tags: console
   - title: 儲存管理
     tags: storage-management
   - title: 工作負載
@@ -27,7 +29,7 @@ product-family:
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
     summary: 使用NetApp控制台來管理身分和存取管理、部署代理程式等。
-    tags: all,connectors,iam
+    tags: all,console
   - title: 儲存管理
     icon: "./media/icon-admin.png"
     url: "../storage-management-family/index.html"
